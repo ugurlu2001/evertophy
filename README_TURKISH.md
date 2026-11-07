@@ -4,6 +4,8 @@
 
 # Evertophy — Çekirdek Ontoloji
 
+[🇬🇧 English](README.md) | [🇹🇷 Türkçe](README_TURKISH.md)
+
 ## Bilimin Kopuk Parçaları Arasında Ortak Bir Dil Arayışı
 
 Modern bilim, insanlığın bugüne dek kurduğu en güvenilir bilgi yapısıdır. Deneyle sınanmış, gözlemle doğrulanmış ve defalarca ölçülmüş sağlam bulgular üzerinde durur. Atom altı parçacıkların çarpışmalarından milyarlarca ışık yılı ötedeki galaksilerin dönüş hızlarına, kütleçekim dalgalarının sarsıntılarından en hassas atom saatlerinin tik-taklarına kadar olağanüstü bir doğrulukla ölçüm yapabiliyor ve hesaplayabiliyoruz. Genel Görelilik, Kuantum Mekaniği, Standart Model ve Kozmoloji; her biri kendi sahasında kusursuz çalışan birer zafer anıtıdır.
@@ -170,11 +172,11 @@ Bu Zenodo kaydı, Evertophy’nin kavramsal ve biçimsel temelini tek, kendi ken
 
 **Eşlik Eden Arşiv Kaydı:** Çalışmanın tüm sürüm geçmişi, denetim izleri, teknik türetim denemeleri ve emekliye ayrılan iddiaların tam dökümü eşlik eden ana arşiv kaydında tutulmaktadır: *Evertophy — Comprehensive Framework Document (Rolling Master), V24 minor20*, DOI: [10.5281/zenodo.23744787](https://doi.org/10.5281/zenodo.23744787).
 
-*Evertophy — Comprehensive Framework Document (Rolling Master), V23 minor12*, -Turkish Rolling Master Document- 
-DOI: [10.5281/zenodo.22307031](https://zenodo.org/records/22307032).
+*Evertophy — Comprehensive Framework Document (Rolling Master), V23 minor12* (Türkçe Rolling Master Belgesi)
+DOI: [10.5281/zenodo.22307031](https://doi.org/10.5281/zenodo.22307031)
 
-Evertophy Current Ontology Monogram 
-DOI: [10.5281/zenodo.23806039](https://zenodo.org/records/23806040).
+Evertophy Güncel Ontoloji Belgeleri
+DOI: [10.5281/zenodo.23806039](https://doi.org/10.5281/zenodo.23806039) 
 
 ---
 
