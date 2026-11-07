@@ -1,0 +1,67 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite the Core Ontology as below."
+type: dataset
+title: "Evertophy: an independent research programme toward a theory of everything"
+abstract: >-
+  Public record of the Evertophy research programme: the Core Ontology
+  (canonical Turkish minor16 and English Minor03), the V23 and V24 rolling
+  master documents, and the Lean 4 formal verification archive (269 theorems).
+  Evertophy proposes a three-phase ontology of reality (c0 black holes,
+  Cm matter, measurement and time, c+ dark sector and vacuum) as a common
+  language for General Relativity, quantum mechanics, the Standard Model and
+  cosmology. Numerical-prediction counter: 0/10.
+authors:
+  - family-names: "Yılmaz"
+    given-names: "Uğur"
+    orcid: "https://orcid.org/0009-0007-2243-5581"
+    city: "Istanbul"
+    country: "TR"
+date-released: 2026-10-27
+doi: "10.5281/zenodo.23806039"
+url: "https://www.evertophy.org"
+repository-code: "https://github.com/ugurlu2001/evertophy"
+keywords:
+  - "theory of everything"
+  - "TOE"
+  - "theoretical physics"
+  - "foundations of physics"
+  - "general relativity"
+  - "quantum mechanics"
+  - "cosmology"
+  - "dark matter"
+  - "dark energy"
+  - "black holes"
+  - "arrow of time"
+  - "philosophy of science"
+  - "Lean 4"
+  - "formal verification"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23806039"
+    description: "Evertophy — Core Ontology (Zenodo)"
+  - type: doi
+    value: "10.5281/zenodo.23744787"
+    description: "Comprehensive Framework Document, V24 rolling master (Zenodo)"
+  - type: doi
+    value: "10.5281/zenodo.22307031"
+    description: "Comprehensive Framework Document, V23 rolling master, Turkish (Zenodo)"
+  - type: url
+    value: "https://www.evertophy.org/core-ontology/"
+    description: "Abstract, citation and PDF downloads"
+preferred-citation:
+  type: report
+  title: "Evertophy — Core Ontology"
+  authors:
+    - family-names: "Yılmaz"
+      given-names: "Uğur"
+      orcid: "https://orcid.org/0009-0007-2243-5581"
+  year: 2026
+  month: 10
+  date-published: 2026-10-27
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.23806039"
+  url: "https://doi.org/10.5281/zenodo.23806039"
+  languages:
+    - "tr"
+    - "en"
