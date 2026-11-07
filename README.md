@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/Evertophy_Phase_Hierarchy_EN.png" alt="Evertophy Phase Hierarchy" width="800">
+</p>
+
 # Evertophy — Core Ontology
 
 ## In Search of a Common Language Between the Disconnected Pieces of Science
