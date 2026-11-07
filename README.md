@@ -158,7 +158,7 @@ In the document's own words: **"A framework is valuable not according to how muc
 
 ## The Purpose of This Release and the Files in This Record
 
-This Zenodo record has been published to fix the conceptual and formal foundation of Evertophy in a single, self-contained, bilingual canonical reference text. It invites physicists, mathematicians and researchers interested in the foundations of physics to examine the proposed search for a common grammar, to work on the declared open debts, and to test — and, where possible, falsify — the proposed readings against measurement.
+The associated Zenodo record was published to fix the conceptual and formal foundation of Evertophy in a single, self-contained, bilingual canonical reference text. It invites physicists, mathematicians and researchers interested in the foundations of physics to examine the proposed search for a common grammar, to work on the declared open debts, and to test — and, where possible, falsify — the proposed readings against measurement.
 
 **The four files in this record:**
 
@@ -169,11 +169,11 @@ This Zenodo record has been published to fix the conceptual and formal foundatio
 
 **Companion archive record:** the complete version history of the work, its audit trails, technical derivation attempts and the full record of retired claims are kept in the companion master archive record: *Evertophy — Comprehensive Framework Document (Rolling Master), V24 minor20*, DOI: [10.5281/zenodo.23744787](https://doi.org/10.5281/zenodo.23744787).
 
-*Evertophy — Comprehensive Framework Document (Rolling Master), V23 minor12*, -Turkish Rolling Master Document- 
-DOI: [10.5281/zenodo.22307031](https://zenodo.org/records/22307032).
+*Evertophy — Comprehensive Framework Document (Rolling Master), V23 minor12* (Turkish Rolling Master Document)
+DOI: [10.5281/zenodo.22307031](https://doi.org/10.5281/zenodo.22307031)
 
-Evertophy Current Ontology Documents:  
-DOI: [10.5281/zenodo.23806039](https://zenodo.org/records/23806040).
+Evertophy Current Ontology Documents
+DOI: [10.5281/zenodo.23806039](https://doi.org/10.5281/zenodo.23806039) 
 
 ---
 
@@ -185,8 +185,6 @@ DOI: [10.5281/zenodo.23806039](https://zenodo.org/records/23806040).
 - **Document version and date:** Turkish minor16 (canonical source) · English Minor03 (faithful translation) · 27 October 2026
 - **Internal status:** Stable Closure Candidate / Current Core Reference
 - **Languages:** Turkish and English
-
----
 
 ---
 
