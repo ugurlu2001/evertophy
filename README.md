@@ -163,6 +163,12 @@ This Zenodo record has been published to fix the conceptual and formal foundatio
 
 **Companion archive record:** the complete version history of the work, its audit trails, technical derivation attempts and the full record of retired claims are kept in the companion master archive record: *Evertophy — Comprehensive Framework Document (Rolling Master), V24 minor20*, DOI: [10.5281/zenodo.23744787](https://doi.org/10.5281/zenodo.23744787).
 
+*Evertophy — Comprehensive Framework Document (Rolling Master), V23 minor12*, -Turkish Rolling Master Document- 
+DOI: [10.5281/zenodo.22307031](https://zenodo.org/records/22307032).
+
+Evertophy Current Ontology Documents:  
+DOI: [10.5281/zenodo.23806039](https://zenodo.org/records/23806040).
+
 ---
 
 ### Document Identity
