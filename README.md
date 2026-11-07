@@ -4,6 +4,8 @@
 
 # Evertophy — Core Ontology
 
+[🇬🇧 English](README.md) | [🇹🇷 Türkçe](README_TURKISH.md)
+
 ## In Search of a Common Language Between the Disconnected Pieces of Science
 
 Modern science is the most reliable structure of knowledge humanity has ever built. It rests on solid findings that have been tested by experiment, confirmed by observation and measured again and again. From collisions of subatomic particles to the rotation speeds of galaxies billions of light years away, from the faint tremor of gravitational waves to the ticking of the most precise atomic clocks, we can measure and calculate with extraordinary accuracy. General Relativity, Quantum Mechanics, the Standard Model and Cosmology are each monuments of success, working flawlessly within their own domains.
