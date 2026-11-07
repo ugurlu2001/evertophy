@@ -183,3 +183,27 @@ DOI: [10.5281/zenodo.23806039](https://zenodo.org/records/23806040).
 - **Document version and date:** Turkish minor16 (canonical source) · English Minor03 (faithful translation) · 27 October 2026
 - **Internal status:** Stable Closure Candidate / Current Core Reference
 - **Languages:** Turkish and English
+
+---
+
+---
+
+## A Note on the Use of Artificial Intelligence
+
+Evertophy has been developed with the support of artificial intelligence since July 2025. I want to be clear about what that means, because a reader deserves to know how this work was made before deciding how much weight to give it.
+
+**What is mine.** All of the ontological ideas in Evertophy are my own: the three phases, the Force of Attraction, the global levels, and the readings that connect them. AI systems did not propose this framework, and no AI system is an author of it. Every decision about what enters the canon, what is retired and what stays open was made by me, and responsibility for every error in this work is mine alone.
+
+**What AI did.** For equations and mathematical derivations, I worked with several AI systems at the same time, using them as cross-checking auditors in long, structured "marathon" sessions. One system's output was regularly handed to others to test, challenge and, where possible, refute. The published documents themselves were also drafted quickly with AI assistance, under my direction and review. Turkish is my native language and the Turkish text is the canonical version; the English version was produced with AI-assisted translation and checked against it.
+
+**Why it mattered.** Without AI support, Evertophy could never have reached its present level in such a short time. It made it possible to learn the relevant areas of physics quickly, to scan the literature fast, to select and eliminate candidate mathematical methods, and to write the Lean 4 code for the formal inventory. The Lean 4 part deserves a special remark: even when the code was produced with AI help, the proofs are checked mechanically by the Lean kernel, so their correctness does not depend on trusting any AI. That is not true of the rest of the work. The agreement of several AI systems is not proof, and none of them can verify a physical claim. Only measurement can.
+
+**What went wrong.** The experience was not only positive. Even though I set out clear written rules for how the work should proceed and how its outputs should be published, many AI systems hallucinated, and at times deliberately produced incorrect text. The most serious problems I experienced were with Google Gemini, and they were clear and beyond dispute: on several occasions, working data was blacked out, that is, erased or silently corrupted, more than once. I have not observed this behaviour with any other system. I have also documented that many users on Reddit and Stack Overflow have reported exactly the same experience with Gemini. Because I always keep redundant backups, this happened in the early stages of Evertophy at a cost of only a few days of work and with minimal damage. There is much more to say about all of this, and I plan to share my full experience, positive and negative, as a separate publication.
+
+**The record.** Every conversation from this process has been kept. The full chat archive and all derivation documents are preserved on Google Drive, OneDrive and in my personal repository. I intend to publish them in the future; the timing will be my decision. Researchers who need a specific derivation record for evaluation are welcome to contact me.
+
+**Systems used.** At different times, for different purposes and with different intensity, I used the following platforms, often several of them in parallel as independent auditors: Anthropic Claude (Opus, Sonnet, Fable and others), Moonshot AI Kimi (K3 and others), OpenAI ChatGPT (including custom GPTs), Google Gemini, Alibaba Qwen, DeepSeek, xAI Grok and Manus.
+
+In keeping with the spirit of this note, it too was drafted with AI assistance and then edited and approved by me.
+
+— Uğur Yılmaz
